@@ -1,6 +1,6 @@
-# Node.js Project Setup in Typescript
+# Node.js Setup
 
-This project gives you and idea about how we can implement google login on node js.
+This project gives you an idea about how we can implement google login on node js.
 
 ---
 ## Requirements
