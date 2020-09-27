@@ -1,6 +1,6 @@
 # Node.js Setup
 
-This project gives you an idea about how we can implement google login on node js.
+This project gives you an idea about how we can implement google login in node js.
 
 ---
 ## Requirements
